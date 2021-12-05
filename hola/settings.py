@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'principal',
-    'viernes'
+    'viernes',
 ]
 
 MIDDLEWARE = [
