@@ -5,3 +5,4 @@ def indice(request):
     return render(request,"viernes/index.html" , {
         'esViernes':datetime.today().isoweekday()==5
     })
+
